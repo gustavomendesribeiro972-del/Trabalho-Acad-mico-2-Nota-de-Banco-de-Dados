@@ -16,6 +16,3 @@ CREATE TABLE arquivo(
 	tipo VARCHAR(50) DEFAULT 'application/x-shockwave-flash',
     DataCriacao DATE
 )
-
-INSERT INTO usuario
-VALUES(1, 1, 'Andressa Urach', 'andressanegocios@CNN.com', '142bbuisbu214321');
